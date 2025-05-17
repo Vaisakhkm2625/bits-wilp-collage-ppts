@@ -1,2 +1,13 @@
+sem6/printable-3x3-tiled-landscape filter=lfs diff=lfs merge=lfs -text
+sem6/sem6-ppt-consolidated.pdf filter=lfs diff=lfs merge=lfs -text
+sem6/software-design-principals-consolidated.pdf filter=lfs diff=lfs merge=lfs -text
+sem6/statistical-inference-and-applications-consolidated-ppts.pdf filter=lfs diff=lfs merge=lfs -text
+sem6/computing-and-design-ppts-consolidated.pdf filter=lfs diff=lfs merge=lfs -text
+sem6/database-design-ppts-consolidate.pdf filter=lfs diff=lfs merge=lfs -text
+sem6/printable-3x3-tiled-landscape/statistical-inference-and-applications-consolidated-3x3-landscape.pdf filter=lfs diff=lfs merge=lfs -text
+sem6/printable-3x3-tiled-landscape/computing-and-design-ppts-consolidated-3x3-landscape.pdf filter=lfs diff=lfs merge=lfs -text
+sem6/printable-3x3-tiled-landscape/database-design-ppts-consolidate-3x3-landscape.pdf filter=lfs diff=lfs merge=lfs -text
+sem6/printable-3x3-tiled-landscape/sem6-ppt-consolidated-3x3-landscape.pdf filter=lfs diff=lfs merge=lfs -text
+sem6/printable-3x3-tiled-landscape/software-design-principals-consolidated-3x3-landscape.pdf filter=lfs diff=lfs merge=lfs -text
 *.pptx filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
